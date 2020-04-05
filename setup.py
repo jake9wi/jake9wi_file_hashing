@@ -1,4 +1,4 @@
-"""setup tools script"""
+"""setup tools script."""
 from setuptools import setup, find_packages
 setup(
     name="j9wFileHashing",
